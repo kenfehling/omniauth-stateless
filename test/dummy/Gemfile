@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'sqlite3'
+
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-facebook-access-token', :git => 'git://github.com/kenfehling/omniauth-facebook-access-token.git', :branch => 'master'
+gem 'omniauth-stateless', '0.0.1', path: '/Users/ken/SoftwareLibraries/omniauth-stateless'
