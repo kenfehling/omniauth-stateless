@@ -58,9 +58,9 @@ Create your controller like this
     end
 
 Connect from your client like this
-> http://example.t.proxylocal.com/api/items?provider=facebook_access_token&access_token=&lt;access token&gt;
+> http://example.t.proxylocal.com/api/items?provider=facebook_access_token&access_token=abcdefghijklmnop;
 
-> http://example.t.proxylocal.com/api/items?provider=identity&auth_key=&lt;email&gt;&password=&lt;password&gt;
+> http://example.t.proxylocal.com/api/items?provider=identity&auth_key=email&password=password;
 
 ## Contributing
 
